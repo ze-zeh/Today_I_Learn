@@ -13,7 +13,7 @@
 
 <img width="455" alt="스크린샷 2021-07-09 오전 12 41 52" src="https://user-images.githubusercontent.com/58066704/124951787-a4affd00-e04e-11eb-8b18-64045842e63b.png">
 
-< br>
+<br>
 
 - git commit - m "~"
 
