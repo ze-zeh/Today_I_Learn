@@ -5,6 +5,8 @@
 <img width="408" alt="스크린샷 2021-07-08 오후 10 21 41" src="https://user-images.githubusercontent.com/58066704/124929044-2564fe00-e03b-11eb-9cb8-7269b1c0c292.png">
 
 주의1) 다른 하위 폴더에서 git add .을 하면 해당 디렉토리의 하위 폴더들만 add됨
+<br>
+
 주의2) vscode에서 파일을 반드시 저장하고 진행하자(저장 안하면 변경사항 없어서 안 되는듯)
 
 <br>
@@ -15,7 +17,7 @@
 
 <br>
 
-- git commit - m "~"
+- git commit -m "~"
 
 <img width="476" alt="스크린샷 2021-07-09 오전 12 44 42" src="https://user-images.githubusercontent.com/58066704/124952193-f9537800-e04e-11eb-9423-606de33cae6e.png">
 
