@@ -99,7 +99,7 @@
 <br>
 <br>
 
-- 콘솔로 이동 선택
+- 콘솔로 이동 선택 후 완료
 
 <img width="657" alt="스크린샷 2021-07-11 오전 12 28 53" src="https://user-images.githubusercontent.com/58066704/125168180-1454f200-e1df-11eb-9da1-00ffa61576e5.png">
 
