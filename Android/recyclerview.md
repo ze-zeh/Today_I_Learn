@@ -5,7 +5,6 @@
 <img width="691" alt="스크린샷 2021-07-29 오후 2 16 30" src="https://user-images.githubusercontent.com/58066704/127435747-c6bbc2a9-5cd0-446e-bf1e-601566064dae.png">
 
 <br>
-<br>
 
 - RecyclerView 구성 요소
 
