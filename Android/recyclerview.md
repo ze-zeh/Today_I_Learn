@@ -41,7 +41,7 @@
 
 - RecyclerView 사용법
 
-    - 워크플로우
+    - 워크플로우   
         <img width="690" alt="스크린샷 2021-07-29 오후 2 33 09" src="https://user-images.githubusercontent.com/58066704/127437105-069d6a9b-8929-484c-9e3a-d2f4ba5d35d2.png">
 
     <br>
