@@ -49,9 +49,8 @@
     - Activity 또는 Fragment에 RecyclerView 추가
 
         ```xml
-        <android.support.v7.widget.RecyclerView
-            android:id="@+id/myRecyclerView"
-            android:scrollbars="vertical"
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
 
@@ -61,19 +60,16 @@
 
         ```xml
         <?xml version="1.0" encoding="utf-8"?>
-        <android.support.constraint.ConstraintLayout
+        <LinearLayout
             xmlns:android="http://schemas.android.com/apk/res/android"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="100dp">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView"
-                android:textSize="32sp"/>
-
-        </android.support.constraint.ConstraintLayout>
-    
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"/>
+            
+        </LinearLayout>
     <br>
 
     - 리사이클러뷰 어댑터 구현
